@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982089478948",
+    "project_id": "fire-post-9b551",
+    "storage_bucket": "fire-post-9b551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982089478948:android:2f3e4e8ce98b8c737d39b1",
+        "android_client_info": {
+          "package_name": "com.example.firepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982089478948-ttjhkf51frc0ttvsblufgb87uvo83dm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-ybVP4ygxQqBNwoUP5AD_JFpEdhzrKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982089478948-ttjhkf51frc0ttvsblufgb87uvo83dm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
